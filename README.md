@@ -25,6 +25,9 @@ TutorHive is a comprehensive tutoring platform designed to facilitate personaliz
         email:- tutor@example.com
         password:- tutor123
 
+## Github Repo 
+https://github.com/Jahnavi-Git-Hub/TutorHive
+
 ## Key Features
 
 ### For Students
