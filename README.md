@@ -6,6 +6,8 @@ A modern, responsive tutoring platform that connects students with expert tutors
 
 TutorHive is a comprehensive tutoring platform designed to facilitate personalized learning experiences between students and qualified tutors. The platform leverages AI technology to provide intelligent study recommendations, progress tracking, and enhanced learning outcomes.
 
+## Project deploy at : https://tutor-hive.vercel.app/
+
 ## Team Members
 
 - **Gunturu, Ainesh** (1002248191) - Team Lead
